@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HitarthTrivedi
-- 👀 I’m interested in making world lazy making the machine do work
+- 👀 I’m interested in making people lazy by making machine do the work.
 - 🌱 I’m currently learning switch-prompt engineering
 - 💞️ I’m looking to collaborate on data science realted projects and website development 
 - 📫 How to reach me hitartht318@gmail.com
