@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HitarthTrivedi
 - 👀 I’m interested in making people lazy by making machine do the work.
 - 🌱 I’m currently learning switch-prompt engineering
-- 💞️ I’m looking to collaborate on data science realted projects and website development 
+- 💞️ I’m looking to collaborate on data science related projects and website development 
 - 📫 How to reach me hitartht318@gmail.com
 - 😄 Pronouns: not mentally ill
 - ⚡ Fun fact: There's no FUNeral without FUN -->fun fact
